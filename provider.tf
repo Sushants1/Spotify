@@ -6,7 +6,7 @@ terraform {
     }
   }
 }
-
+# spotify variables
 provider "spotify" {
 
   
