@@ -9,8 +9,7 @@ terraform {
 # spotify variables
 provider "spotify" {
 
-  
-  # The Spotify API requires an API key for authentication.
+
   api_key = var.api_key
 
 
